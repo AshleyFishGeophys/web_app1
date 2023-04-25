@@ -1,0 +1,5 @@
+clean aeroponics garden
+start sprinklers
+get hellofresh for sarah's birthday
+make gui into exe file
+add more things
