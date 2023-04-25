@@ -29,5 +29,3 @@ st.text_input(
     on_change=add_todo,
     key="new_todo")
 
-# The session_state will show everything that has keys
-st.session_state
